@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+td {
+  width: 34px;
+  height: 34px;
+  background-color: #282c34;
+}
+
+td.white {
+  background-color: white;
+}
